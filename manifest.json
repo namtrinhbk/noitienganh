@@ -1,0 +1,20 @@
+{
+  "name": "Nói Tiếng Anh",
+  "short_name": "NTA",
+  "start_url": "https://hoctienganhtbh.blogspot.com/2021/08/speak-in-english.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoZVAoK6gCu1m0kxAsGhN7OqeglV3UCp3-g3mUH7P8RqWbYpV1QaraqrQzHjeZHcfGNxInT53mUOT-gjkus4em1Dql8YluuhYUIOooQM3q97xNnYrxsrORiJa-HWFPbS54yYZg5Iqn4NqvbCI1oAYGAlXVgZFTvh9FEWJeKwcwmyFt7jnqftEcqt4CP7A/s1024/IMG_0280.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoZVAoK6gCu1m0kxAsGhN7OqeglV3UCp3-g3mUH7P8RqWbYpV1QaraqrQzHjeZHcfGNxInT53mUOT-gjkus4em1Dql8YluuhYUIOooQM3q97xNnYrxsrORiJa-HWFPbS54yYZg5Iqn4NqvbCI1oAYGAlXVgZFTvh9FEWJeKwcwmyFt7jnqftEcqt4CP7A/s1024/IMG_0280.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
